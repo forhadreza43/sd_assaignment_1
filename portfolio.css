@@ -1,0 +1,61 @@
+.logo {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.d-icon{
+    margin-left: 10px;
+}
+.location{
+    margin-left: 10px;
+}
+
+.contact{
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    box-shadow: 1px 1px 4px 1px rgba(255, 255, 255, 0.829);
+}
+
+/* @media (max-width: 576px) {
+    .nav-container{
+        flex-direction: column;
+        
+    }
+    .banner-container {
+        flex-direction: column-reverse;
+        text-align: center;
+        
+    }
+
+    .left-section,
+    .right-section {
+        width: 100%;
+    }
+    .left-section{
+        margin: auto;
+        padding-left: auto;
+    }
+
+    .right-section img {
+        width: 80%;
+        margin: auto;
+    }
+    .cards{
+        flex-direction: column;
+        align-self: center;
+        width: 100%; 
+        margin: 25%;
+    }
+    .skils{
+        flex-direction: column-reverse;
+        align-self: center;
+        width: 100%;
+    }
+    .right-sides{
+        width: 100%;
+
+        
+    }
+   
+} */
